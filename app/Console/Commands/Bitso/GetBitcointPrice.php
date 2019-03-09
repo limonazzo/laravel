@@ -19,7 +19,7 @@ class GetBitcointPrice extends Command
      *
      * @var string
      */
-    protected $description = 'Command description';
+    protected $description = 'Gets bitocint price and saves to database';
 
     /**
      * Create a new command instance.

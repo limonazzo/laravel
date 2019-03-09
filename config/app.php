@@ -179,7 +179,7 @@ return [
          * Bitso
          */
         \App\Providers\BitsoServiceProvider::class,
-
+        \hedronium\SpacelessBlade\SpacelessBladeProvider::class,
     ],
 
     /*

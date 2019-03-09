@@ -40,4 +40,10 @@ return [
         ],
     ],
 
+    'bitso' => [
+        'url' => [
+            'orderbook' => env('BITSO_ORDERBOOK_URL'),
+        ]
+    ]
+
 ];

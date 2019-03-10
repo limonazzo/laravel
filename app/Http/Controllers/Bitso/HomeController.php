@@ -4,7 +4,6 @@ namespace App\Http\Controllers\Bitso;
 
 use App\Models\BitcointModel;
 use Carbon\Carbon;
-use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
 class HomeController extends Controller
